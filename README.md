@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel = "stylesheet" href="./resume.css">
+        <link rel = "stylesheet" href="https://github.com/Pran108/Pran108.git/resume.css">
     </head>
 <body>
     <table>

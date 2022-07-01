@@ -1,0 +1,122 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 50%;
+ margin:auto;
+ background-color: beige;
+ }
+
+.face{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    background-color: turquoise;
+}
+.edu{
+    font-size: large;
+    color:white;
+    background-color:turquoise;
+    height: 50px;
+    text-align: center;
+}
+.edu1{
+    font-size: small;
+    color: black;
+}
+
+.edu2{
+    font-size: medium;
+    color: gray;
+}
+
+.edu3{
+    font-size: small;
+}
+.name{
+    font-size: larger;
+    color: blue;
+    text-align: center;
+}
+
+.good{
+    text-align: center;
+}
+
+.wk{
+    font-size: large;
+    color:white;
+    background-color: turquoise;
+    height: 50px;
+    text-align: center;
+}
+
+.wk1{
+    font-size: small;
+    color: black;
+}
+.wk2{
+    font-size: medium;
+    color: gray;
+}
+.wk3{
+    padding-top: 40px;
+    font-size: small;
+    color: black;
+}
+.wk4{
+    font-size: medium;
+    color: gray;
+}
+.wk5{
+    font-size: small;
+}
+
+.wk6{
+    font-size: small;
+}
+.profile{
+    background-color: bisque;
+}
+.pr{
+    font-size:small ;
+}
+.main{
+    background-color: bisque;
+}
+.contact{
+    background-color: bisque;
+}
+.skills{
+    font-size: large;
+    color:white;
+    background-color:turquoise;
+    height: 50px;
+    text-align: center;
+}
+
+.c1{
+    font-size: large;
+    color:white;
+    background-color:turquoise;
+    height: 50px;
+    text-align: center;
+}
+}
+.c2{
+    font-size: medium;
+}
+.c3{
+    font-size: medium;
+}
+.w1{
+    font-size: medium;
+}
+.w2{
+    font-size: small;
+}
+.w3{
+    font-size: medium; 
+}
+.w4{
+    font-size: small;  
+}
